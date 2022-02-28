@@ -1,0 +1,18 @@
+
+
+.table-row-cell:empty {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent
+}
+
+.table-row-cell:hover{
+    -fx-background-color: transparent;
+}
+
+.table-row-cell:selected{
+    -fx-background-color: transparent;
+}
+
+.list-cell{
+    -fx-font-size: 15.0
+}
